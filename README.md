@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Yasir Ahmad
+#### I'm a Front-end developer
+![I'm a Front-end developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**Yasirkhana/YasirKhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hard-working Front-end developer with a flair for creating elegant Fronts in the least amount of time. Developed many projects to learn more. Passionate about web-development and cloud computing. Regular attendee of web developer bootcamps and hackathons.
 
-Here are some ideas to get you started:
+Skills: Front-End Developer 💻 | JavaScript, Python, C# | Squash 🎾| Fitness Freak 🤸‍♀️.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
